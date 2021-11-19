@@ -298,7 +298,7 @@ import java.lang.Exception
                                         sp = parser.getAttributeValue(null, "mps").toDouble()
                                     }
 
-                                    "windDeg" -> {
+                                    "windDirection" -> {
                                         deg = parser.getAttributeValue(null, "deg").toInt()
                                     }
 
